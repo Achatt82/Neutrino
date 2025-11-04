@@ -9,6 +9,7 @@ Debug/
 Release/
 x64/
 x86/
+logs/
 
 *.exe
 *.dll
